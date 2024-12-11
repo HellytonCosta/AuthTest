@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hcosta\\source\\repos\\AuthTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46EF9D81-FFF3-43EA-8F60-AC227707FDB8}|AuthTest\\AuthTest.csproj|c:\\users\\hcosta\\source\\repos\\authtest\\authtest\\data\\authtestdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46EF9D81-FFF3-43EA-8F60-AC227707FDB8}|AuthTest\\AuthTest.csproj|solutionrelative:authtest\\data\\authtestdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46EF9D81-FFF3-43EA-8F60-AC227707FDB8}|AuthTest\\AuthTest.csproj|c:\\users\\hcosta\\source\\repos\\authtest\\authtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46EF9D81-FFF3-43EA-8F60-AC227707FDB8}|AuthTest\\AuthTest.csproj|solutionrelative:authtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46EF9D81-FFF3-43EA-8F60-AC227707FDB8}|AuthTest\\AuthTest.csproj|c:\\users\\hcosta\\source\\repos\\authtest\\authtest\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46EF9D81-FFF3-43EA-8F60-AC227707FDB8}|AuthTest\\AuthTest.csproj|solutionrelative:authtest\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46EF9D81-FFF3-43EA-8F60-AC227707FDB8}|AuthTest\\AuthTest.csproj|c:\\users\\hcosta\\source\\repos\\authtest\\authtest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46EF9D81-FFF3-43EA-8F60-AC227707FDB8}|AuthTest\\AuthTest.csproj|solutionrelative:authtest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46EF9D81-FFF3-43EA-8F60-AC227707FDB8}|AuthTest\\AuthTest.csproj|c:\\users\\hcosta\\source\\repos\\authtest\\authtest\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46EF9D81-FFF3-43EA-8F60-AC227707FDB8}|AuthTest\\AuthTest.csproj|solutionrelative:authtest\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46EF9D81-FFF3-43EA-8F60-AC227707FDB8}|AuthTest\\AuthTest.csproj|c:\\users\\hcosta\\source\\repos\\authtest\\authtest\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46EF9D81-FFF3-43EA-8F60-AC227707FDB8}|AuthTest\\AuthTest.csproj|solutionrelative:authtest\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46EF9D81-FFF3-43EA-8F60-AC227707FDB8}|AuthTest\\AuthTest.csproj|c:\\users\\hcosta\\source\\repos\\authtest\\authtest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46EF9D81-FFF3-43EA-8F60-AC227707FDB8}|AuthTest\\AuthTest.csproj|solutionrelative:authtest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46EF9D81-FFF3-43EA-8F60-AC227707FDB8}|AuthTest\\AuthTest.csproj|c:\\users\\hcosta\\source\\repos\\authtest\\authtest\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46EF9D81-FFF3-43EA-8F60-AC227707FDB8}|AuthTest\\AuthTest.csproj|solutionrelative:authtest\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46EF9D81-FFF3-43EA-8F60-AC227707FDB8}|AuthTest\\AuthTest.csproj|c:\\users\\hcosta\\source\\repos\\authtest\\authtest\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46EF9D81-FFF3-43EA-8F60-AC227707FDB8}|AuthTest\\AuthTest.csproj|solutionrelative:authtest\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 213,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hcosta\\source\\repos\\AuthTest\\AuthTest\\Program.cs",
+              "RelativeDocumentMoniker": "AuthTest\\Program.cs",
+              "ToolTip": "C:\\Users\\hcosta\\source\\repos\\AuthTest\\AuthTest\\Program.cs",
+              "RelativeToolTip": "AuthTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:23:53.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hcosta\\source\\repos\\AuthTest\\AuthTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AuthTest\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hcosta\\source\\repos\\AuthTest\\AuthTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AuthTest\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T22:50:23.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hcosta\\source\\repos\\AuthTest\\AuthTest\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\hcosta\\source\\repos\\AuthTest\\AuthTest\\appsettings.json",
+              "RelativeToolTip": "AuthTest\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T22:46:43.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hcosta\\source\\repos\\AuthTest\\AuthTest\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "AuthTest\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\hcosta\\source\\repos\\AuthTest\\AuthTest\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "AuthTest\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAwwGMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T19:19:44.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\hcosta\\source\\repos\\AuthTest\\AuthTest\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "AuthTest\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\hcosta\\source\\repos\\AuthTest\\AuthTest\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "AuthTest\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T23:25:05.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthTestDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hcosta\\source\\repos\\AuthTest\\AuthTest\\Data\\AuthTestDbContext.cs",
+              "RelativeDocumentMoniker": "AuthTest\\Data\\AuthTestDbContext.cs",
+              "ToolTip": "C:\\Users\\hcosta\\source\\repos\\AuthTest\\AuthTest\\Data\\AuthTestDbContext.cs",
+              "RelativeToolTip": "AuthTest\\Data\\AuthTestDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:49:42.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\hcosta\\source\\repos\\AuthTest\\AuthTest\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "AuthTest\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\hcosta\\source\\repos\\AuthTest\\AuthTest\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "AuthTest\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T19:19:43.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\hcosta\\source\\repos\\AuthTest\\AuthTest\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "AuthTest\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\hcosta\\source\\repos\\AuthTest\\AuthTest\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "AuthTest\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAASwG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:04:00.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\hcosta\\source\\repos\\AuthTest\\AuthTest\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "AuthTest\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\hcosta\\source\\repos\\AuthTest\\AuthTest\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "AuthTest\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T23:01:29.308Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
